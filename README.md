@@ -2,7 +2,7 @@
 > Module 8 project challenge
 
 ## Objectives
-* Evaluate search and stock trends for MercadoLibre
+* Evaluate search and stock trends for Mercado Libre
 * Calculate stock returns hour-over-hour
 * Plot data for search trends and stock trends
 * Determine whether there's any relationship between stock trends and search trends
